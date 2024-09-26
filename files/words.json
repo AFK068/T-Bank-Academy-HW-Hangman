@@ -1,0 +1,80 @@
+{
+  "easy": {
+    "animals": [
+      {"word": "elephant", "hint": "Large mammal with a trunk"},
+      {"word": "tiger", "hint": "Big striped feline"}
+    ],
+    "fruits": [
+      {"word": "apple", "hint": "Popular fruit, often red or green"},
+      {"word": "banana", "hint": "Long, yellow fruit"}
+    ],
+    "cars": [
+      {"word": "ford", "hint": "Popular American car brand"},
+      {"word": "toyota", "hint": "Reliable Japanese car manufacturer"}
+    ],
+    "cities": [
+      {"word": "paris", "hint": "Capital of France"},
+      {"word": "tokyo", "hint": "Capital of Japan"}
+    ],
+    "countries": [
+      {"word": "canada", "hint": "Country known for its maple syrup"},
+      {"word": "brazil", "hint": "Country famous for the Amazon rainforest"}
+    ],
+    "hobbies": [
+      {"word": "painting", "hint": "Artistic activity involving a canvas and brush"},
+      {"word": "fishing", "hint": "Catching fish as a leisure activity"}
+    ]
+  },
+  "medium": {
+    "animals": [
+      {"word": "giraffe", "hint": "Tall mammal with a long neck"},
+      {"word": "dolphin", "hint": "Intelligent aquatic mammal"}
+    ],
+    "fruits": [
+      {"word": "kiwi", "hint": "Small, brown fruit with green flesh"},
+      {"word": "mango", "hint": "Tropical fruit with orange flesh"}
+    ],
+    "cars": [
+      {"word": "mercedes", "hint": "Luxury German car brand"},
+      {"word": "tesla", "hint": "Electric car manufacturer"}
+    ],
+    "cities": [
+      {"word": "berlin", "hint": "Capital of Germany"},
+      {"word": "moscow", "hint": "Capital of Russia"}
+    ],
+    "countries": [
+      {"word": "australia", "hint": "Country known for kangaroos"},
+      {"word": "india", "hint": "Country with a large population"}
+    ],
+    "hobbies": [
+      {"word": "knitting", "hint": "Creating garments using yarn and needles"},
+      {"word": "gardening", "hint": "Growing plants as a leisure activity"}
+    ]
+  },
+  "hard": {
+    "animals": [
+      {"word": "hippopotamus", "hint": "Large, water-dwelling mammal"},
+      {"word": "platypus", "hint": "Egg-laying mammal with a duck bill"}
+    ],
+    "fruits": [
+      {"word": "pomegranate", "hint": "Fruit filled with tiny seeds"},
+      {"word": "durian", "hint": "Spiky fruit known for its strong smell"}
+    ],
+    "cars": [
+      {"word": "lamborghini", "hint": "Luxury Italian sports car"},
+      {"word": "bugatti", "hint": "Supercar brand known for speed"}
+    ],
+    "cities": [
+      {"word": "copenhagen", "hint": "Capital of Denmark"},
+      {"word": "istanbul", "hint": "Largest city in Turkey"}
+    ],
+    "countries": [
+      {"word": "argentina", "hint": "South American country known for tango"},
+      {"word": "iceland", "hint": "Country with volcanic landscapes"}
+    ],
+    "hobbies": [
+      {"word": "calligraphy", "hint": "Art of beautiful handwriting"},
+      {"word": "birdwatching", "hint": "Observing birds in nature"}
+    ]
+  }
+}
